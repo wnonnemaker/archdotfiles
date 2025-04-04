@@ -1,0 +1,9 @@
+bitwig-studio
+brave-bin
+coreshot
+lightscreen
+python-pylspci
+ttf-joypixels
+xampp
+yay
+yay-debug
