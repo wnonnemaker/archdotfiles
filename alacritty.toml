@@ -1,0 +1,20 @@
+[general]
+import = [
+    "~/.config/alacritty/themes/falcon.toml"
+]
+
+[window]
+opacity = 0.8
+
+[keyboard]
+bindings = [
+   { key = "d", mods = "Alt|Shift", action = "SpawnNewInstance" },
+   { key = "q", mods = "Alt", action = "IncreaseFontSize" },
+   { key = "w", mods = "Alt", action = "DecreaseFontSize" },
+]
+
+[font]
+size = 7.5
+
+
+
