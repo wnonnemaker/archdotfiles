@@ -1,0 +1,39 @@
+SEARCHING
+find . -name 'orange' -type f
+
+grep "orange" . 
+
+RANDOM SOFTWARE I ALWAYS FORGET
+iwctl -- wifi
+
+HUGO
+hugo new posts/therightos.md  -- hugo new automatically looks inside content dir
+hugo run -D
+
+MAKE EXECUTABLE
+chmod +x "filename"
+
+AUDIO SOFTWARE
+pactl set-default-sink <name>
+pactl list sinks short
+pipewire
+wireplumber
+pipewire-pulse
+pavucontrol
+
+DEVICE CONTROL
+xrandr -- monitor control
+dd 
+
+LATEX AND PDFS
+pdflatex <filename>
+evince <pdf names>
+latexmk -pdf -pvc <filename>
+
+FILE AND DIRECTORY MANIPLUATION
+du -sh <dir> -- human readable output for directory size
+ls -ld <filename>
+
+HARDWARE MONITORING
+meminfo -- memory usage
+top -- cpu and memory usage
